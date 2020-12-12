@@ -5,7 +5,7 @@ Programming language used <br>
 
 How to run the program? </br> 
  <b>*Step 1: npm install </br>
- *step 2: npm start </b></br>
+ *Step 2: npm start </b></br>
 
 
  How to run the test cases? </br>
