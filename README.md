@@ -1,14 +1,12 @@
 # velocityLimits
 
-Programming language used
-TypeScript
+Programming language used <br>
+<b> TypeScript </b>
 
-How to run the program?
-Step 1: npm install
-step 2: npm start
-
-
-How to run the test cases?
-npm test
+How to run the program? </br> 
+ <b>*Step 1: npm install </br>
+ *step 2: npm start </b></br>
 
 
+ How to run the test cases? </br>
+ <b>*npm test</b></br>
